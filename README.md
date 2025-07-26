@@ -7,7 +7,7 @@
   <p align="center">
     A modern furniture catalog web app made with React and Tailwind — with clean UI and dynamic data integration.
     <br />
-    <a href="">View Demo</a>
+    <a href="https://furnistyle-bice.vercel.app">View Demo</a>
     ·
     <a href="https://github.com/naufalf25/furnistyle/issues/new">Report Bug</a>
   </p>
